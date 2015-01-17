@@ -4,9 +4,9 @@
   <DataSources>
     <DataSource name="magnolia">
       <param name="driver" value="com.mysql.jdbc.Driver" />
-      <param name="url" value="jdbc:mysql://localhost:3306/magnolia" />
+      <param name="url" value="jdbc:mysql://localhost:3306/mgnlAuthor" />
       <param name="user" value="root" />
-      <param name="password" value="password" />
+      <param name="password" value="admin" />
       <param name="databaseType" value="mysql"/>
       <param name="validationQuery" value="select 1"/>
     </DataSource>
